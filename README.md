@@ -21,13 +21,7 @@
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apachekafka&logoColor=white)
 
-### GitHub Statistics
-
-<p >
-  <img width="35%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=a-feel-u&layout=compact&langs_count=5&hide=html&theme=chartreuse-dark" />
-</p>
-
-### My Projects
+### My Last Projects
 
 <table>
   <tr>
@@ -40,8 +34,6 @@
       </p>
       <p>
         Online platform for solving programming problems.
-        Supports task management, code submissions and
-        asynchronous processing of solutions.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -60,9 +52,7 @@
         </a>
       </p>
       <p>
-        Educational backend project for managing exoplanets.
-        Demonstrates different approaches to REST API development,
-        authentication and data management.
+        Educational backend project demonstrating different approaches to REST API development in Go.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
