@@ -35,5 +35,6 @@
   </a>
   <a href="https://github.com/a-feel-u/Exoplanets_backend">
     <img width="35%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=Exoplanets_backend&theme=chartreuse-dark" />
+    [![Language](https://img.shields.io/github/languages/top/a-feel-u/Exoplanets_backend?style=flat-square)](https://github.com/a-feel-u/Exoplanets_backend)
   </a>
 </p>
