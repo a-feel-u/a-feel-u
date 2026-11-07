@@ -23,17 +23,17 @@
 
 ### GitHub Statistics
 
-<p align="center" style="font-size: 48px">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=a-feel-u&layout=compact&langs_count=10&hide=html&theme=chartreuse-dark" />
+<p>
+  <img width="80%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=a-feel-u&layout=compact&langs_count=5&hide=html&theme=chartreuse-dark" />
 </p>
 
 ### My Projects
 
-<p align="center" style="font-size: 48px">
+<p align="center">
   <a href="https://github.com/a-feel-u/Exoplanets_backend">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=Exoplanets_backend&theme=chartreuse-dark" />
+    <img width="80%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=Exoplanets_backend&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/a-feel-u/code-the-problem">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=code-the-problem&theme=chartreuse-dark" />
+    <img width="80%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=code-the-problem&theme=chartreuse-dark" />
   </a>
 </p>
