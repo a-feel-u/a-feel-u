@@ -31,10 +31,9 @@
 
 <p >
   <a href="https://github.com/a-feel-u/code-the-problem">
-    <img width="35%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=code-the-problem&theme=chartreuse-dark" />
+    <img width="35%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=code-the-problem&langs_count=3&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/a-feel-u/Exoplanets_backend">
-    <img width="35%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=Exoplanets_backend&theme=chartreuse-dark" />
-    [![Language](https://img.shields.io/github/languages/top/a-feel-u/Exoplanets_backend?style=flat-square)](https://github.com/a-feel-u/Exoplanets_backend)
+    ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
   </a>
 </p>
