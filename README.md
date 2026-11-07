@@ -29,41 +29,49 @@
 
 ### My Projects
 
-<p >
-  <a href="https://github.com/a-feel-u/code-the-problem">
-    <img
-      width="35%"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=code-the-problem&theme=chartreuse-dark"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Code The Problem</h3>
+      <p align="center">
+        <a href="https://github.com/a-feel-u/code-the-problem">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-9ACD32?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        Online platform for solving programming problems.
+        Supports task management, code submissions and
+        asynchronous processing of solutions.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Exoplanets Backend</h3>
+      <p align="center">
+        <a href="https://github.com/a-feel-u/Exoplanets_backend">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-9ACD32?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        Educational backend project for managing exoplanets.
+        Demonstrates different approaches to REST API development,
+        authentication and data management.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p >
-  <a href="https://github.com/a-feel-u/code-the-problem">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  </a>
-</p>
-
-<p >
-  <a href="https://github.com/a-feel-u/Exoplanets_backend">
-    <img
-      width="35%"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=Exoplanets_backend&theme=chartreuse-dark"
-    />
-  </a>
-</p>
-
-<p >
-  <a href="https://github.com/a-feel-u/Exoplanets_backend">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  </a>
-</p>
 
