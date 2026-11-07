@@ -2,7 +2,7 @@
 
 ### Whoami
 
-`Go Developer` | `C++ Developer` | `Educational courses creator`
+`Go Developer` | `C++ Developer` | `Educational Courses Creator`
 
 ### Contact Me
 
