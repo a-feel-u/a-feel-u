@@ -24,7 +24,6 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=a-feel-u&show_icons=true&hide_title=true&theme=chartreuse-dark" />
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=a-feel-u&layout=compact&langs_count=10&hide=html&theme=chartreuse-dark" />
 </p>
 
