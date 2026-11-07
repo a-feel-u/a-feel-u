@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](klokova_maria06@mail.ru)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-090909?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/AfeelU)
 
-### My hard skills
+### My Hard Skills
 
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white)
@@ -21,18 +21,20 @@
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apachekafka&logoColor=white)
 
-### GitHub statistics
+### GitHub Statistics
 
-<table style="width: 80%; border-radius: 10px" >
-<th colspan="2" style="font-size: 48px">
-   Github platform stats 📈
-</th>
-<tr>
-<td>
-    <img
-        width="88%"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=a-feel-u&count_private=true&langs_count=10&hide=html&layout=compact&hide_title=true&theme=chartreuse-dark"
-    >
-</td>
-</tr>
-</table>
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=a-feel-u&show_icons=true&hide_title=true&theme=chartreuse-dark" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=a-feel-u&layout=compact&langs_count=10&hide=html&theme=chartreuse-dark" />
+</p>
+
+### My Projects
+
+<p align="center">
+  <a href="https://github.com/a-feel-u/Exoplanets_backend">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=Exoplanets_backend&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/a-feel-u/code-the-problem">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=code-the-problem&theme=chartreuse-dark" />
+  </a>
+</p>
