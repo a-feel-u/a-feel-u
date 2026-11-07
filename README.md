@@ -23,13 +23,13 @@
 
 ### GitHub Statistics
 
-<p align="center">
+<p align="center" style="font-size: 48px">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=a-feel-u&layout=compact&langs_count=10&hide=html&theme=chartreuse-dark" />
 </p>
 
 ### My Projects
 
-<p align="center">
+<p align="center" style="font-size: 48px">
   <a href="https://github.com/a-feel-u/Exoplanets_backend">
     <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=a-feel-u&repo=Exoplanets_backend&theme=chartreuse-dark" />
   </a>
