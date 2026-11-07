@@ -34,11 +34,5 @@
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=a-feel-u&count_private=true&langs_count=10&hide=html&layout=compact&hide_title=true&theme=chartreuse-dark"
     >
 </td>
-<td>
-    <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api?username=a-feel-u&count_private=true&hide=html&show_icons=true&hide_title=true&theme=chartreuse-dark"
-    >
-</td>
 </tr>
 </table>
